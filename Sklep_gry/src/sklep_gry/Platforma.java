@@ -7,7 +7,7 @@
 package sklep_gry;
 
 /**
- *
+ *  Klasa opisujaca platforme na której gra dziala
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Platforma {
