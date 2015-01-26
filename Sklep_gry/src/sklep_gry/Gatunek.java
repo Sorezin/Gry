@@ -7,7 +7,7 @@
 package sklep_gry;
 
 /**
- *
+ * Klasa opisujaca gatunek gry lub kategorie
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Gatunek {
