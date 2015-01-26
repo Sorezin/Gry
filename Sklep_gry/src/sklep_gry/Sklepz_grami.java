@@ -7,7 +7,7 @@
 package sklep_gry ;
 
 /**
- *
+ * Głowna klasa z metodami 
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Sklepz_grami {
