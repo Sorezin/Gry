@@ -7,7 +7,7 @@
 package sklep_gry;
 
 /**
- *
+ *  Klasa opisujaca uzytkownika sklepu z grami 
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Uzytkownik {
