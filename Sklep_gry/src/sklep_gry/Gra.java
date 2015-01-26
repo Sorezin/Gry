@@ -7,7 +7,7 @@
 package sklep_gry;
 
 /**
- *
+ * Klasa opisujaca tytul gry
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Gra {
