@@ -7,7 +7,7 @@
 package sklep_gry;
 
 /**
- *
+ * 
  * @author Mitrut Maciej, Radosław Kowalik, Jakub Cieślak
  */
 public class Cena {
